@@ -1,0 +1,21 @@
+* {
+    background-color: black;
+    color: white;
+}
+
+h1 {
+    letter-spacing: 15px;
+    font-size: 28px;
+    border-bottom: 20px solid rgba(80, 123, 130, 0.498);
+    text-align: center;
+    margin: auto;
+    height: 10%;
+
+}
+
+div {
+    text-align: center;
+    width: 300px;
+    margin: auto;
+    margin-top: 100px;
+}
